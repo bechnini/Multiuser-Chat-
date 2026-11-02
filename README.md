@@ -5,8 +5,8 @@ Its a normal client that connects to the local host with specifying the username
 # Server
 A Server That uses select to handle multiple clients at once
 # Stuff Learned From This Project
-> MultiThreading
-> select()
+- MultiThreading
+- select()
 # Usage
 If you are using this on the same device you dont have to change the code but if you are not you should change the ip addr
 `python server.py 5555`
